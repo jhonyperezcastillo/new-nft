@@ -1,0 +1,32 @@
+{
+    "name": "My Collection JP",
+    "symbol": "MC",
+    "description": "A unique NFT collection.",
+    "image": "https://raw.githubusercontent.com/jhonyperezcastillo/new-nft/main/images/collection1.png",
+    "external_url": "https://github.com/jhonyperezcastillo",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        }
+    ],
+    "collection": {
+        "name": "My Collection JP",
+        "family": "My Collection JP"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/jhonyperezcastillo/new-nft/main/images/collection1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "D4yXQ51s8mewvmd8PkgTpNWfSwEngqX2nwyWhvY2BdLW",
+                "share": 100
+            }
+        ]
+    }
+}
