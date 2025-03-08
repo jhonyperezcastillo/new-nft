@@ -1,0 +1,35 @@
+{
+  "name": "NFT 2",
+  "symbol": "NFT2",
+  "description": "Second NFT in the collection.",
+  "external_url": "https://github.com/jhonyperezcastillo",
+  "image": "https://raw.githubusercontent.com/jhonyperezcastillo/new-nft/main/images/pNFT.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "pNFT"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Limited"
+    }
+  ],
+  "collection": {
+    "name": "My Collection JP",
+    "family": "My Collection"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/jhonyperezcastillo/new-nft/main/images/pNFT.jpg",
+        "type": "image/jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "D4yXQ51s8mewvmd8PkgTpNWfSwEngqX2nwyWhvY2BdLW",
+        "share": 100
+      }
+    ]
+  }
+}
