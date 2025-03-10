@@ -1,0 +1,33 @@
+{
+    "name": "Mi Token JP",
+    "symbol": "MTK JP",
+    "description": "Este es mi ejemplo de SPL Token con metadatos.",
+    "image": "https://raw.githubusercontent.com/jhonyperezcastillo/new-nft/main/images/spltoken.png",
+    "decimals": 9,
+    "seller_fee_basis_points": 500,
+    "external_url": "https://github.com/jhonyperezcastillo",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Hat"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/jhonyperezcastillo/new-nft/main/images/spltoken.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "D4yXQ51s8mewvmd8PkgTpNWfSwEngqX2nwyWhvY2BdLW",
+                "share": 100
+            }
+        ]
+    }
+}
